@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.8.0](https://github.com/catppuccin/nvim/compare/v1.7.0...v1.8.0) (2024-05-08)
+
+
+### Features
+
+* **diffview:** add diffview integrations ([#700](https://github.com/catppuccin/nvim/issues/700)) ([182f256](https://github.com/catppuccin/nvim/commit/182f25640f85a3da2f1f22b088848d896a50fcce))
+* **integration:** add colorful-winsep.nvim ([#701](https://github.com/catppuccin/nvim/issues/701)) ([30481d6](https://github.com/catppuccin/nvim/commit/30481d659b6524e6bcae0756201d737e5bc1f209))
+
 ## [1.7.0](https://github.com/catppuccin/nvim/compare/v1.6.0...v1.7.0) (2024-04-13)
 
 
